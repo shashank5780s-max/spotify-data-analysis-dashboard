@@ -29,14 +29,14 @@ It provides insights into streams, artists, and trends over time.
 
 ## 📁 Files Included
 
-* `data analysis of spotify project` → Power BI report
+* `data analysis of spotify project.png` → Power BI report
 * `spotify-2023.csv` → Dataset
 
 ---
 
 ## 📸 Dashboard Preview
 
-(Add screenshot here)
+![Dashboard](data analysis of spotify project.png)
 
 ---
 
