@@ -29,7 +29,7 @@ It provides insights into streams, artists, and trends over time.
 
 ## 📁 Files Included
 
-* `spotify-dashboard.pbix` → Power BI report
+* `data analysis of spotify project` → Power BI report
 * `spotify-2023.csv` → Dataset
 
 ---
