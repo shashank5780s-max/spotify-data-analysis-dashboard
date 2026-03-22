@@ -1,49 +1,53 @@
 # spotify-data-analysis-dashboard
 Spotify data analysis dashboard using Power BI
-🎧 Spotify Power BI Dashboard
- Project Overview
+# 🎧 Spotify Power BI Dashboard
+
+## 📊 Project Overview
 
 This project analyzes Spotify song data using Power BI.
 It provides insights into streams, artists, and trends over time.
 
-Features
+---
 
-Top streamed songs analysis
+## 🚀 Features
 
-Artist performance insights
+* Top streamed songs analysis
+* Artist performance insights
+* Monthly trends visualization
+* Interactive filters (track, artist, year)
+* KPI cards (Total streams, averages)
 
-Monthly trends visualization
+---
 
-Interactive filters (track, artist, year)
+## 🛠 Tools Used
 
-KPI cards (Total streams, averages)
+* Power BI
+* Excel / CSV dataset
+* DAX
 
-Tools Used
+---
 
-Power BI
+## 📁 Files Included
 
-Excel / CSV dataset
+* `spotify-dashboard.pbix` → Power BI report
+* `spotify-2023.csv` → Dataset
 
-DAX
+---
 
-Files Included
-
-spotify-dashboard.pbix → Power BI report
-
-spotify-2023.csv → Dataset
-
-Dashboard Preview
+## 📸 Dashboard Preview
 
 (Add screenshot here)
 
-Insights
+---
 
-Blinding Lights is one of the top streamed songs
+## 📌 Insights
 
-Streaming trends increased after 2015
+* Blinding Lights is one of the top streamed songs
+* Streaming trends increased after 2015
+* Certain artists dominate global streams
 
-Certain artists dominate global streams
+---
 
-Author
+## 👤 Author
 
 Shashank S
